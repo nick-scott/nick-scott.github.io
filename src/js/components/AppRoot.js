@@ -15,8 +15,8 @@ export default class AppRoot extends React.Component {
         return <Router history={browserHistory} onUpdate={this.logPageView}>
             <Suspense fallback={<div>Loading...</div>}>
                 <Switch>
-                    <Route exact path="/" component={Main}/>
-                    <Route exact path="/wow" component={WowRotations}/>
+                    <Route exact path="/" component={WowRotations}/>
+                    <Route exact path="/wow" component={Main}/>
                     <Route render={() => <h1>404: page not found</h1>}/>
                     {/*<Route path="/about" component={About}/>*/}
                 </Switch>
