@@ -50,7 +50,7 @@ export default class Project extends React.Component {
             return
         }
         return <div>
-            <h2>{this.state.data.name}</h2>
+            <h2 onClick={this.handle_expandClicked}>{this.state.data.name}</h2>
             <div className={"expansionIcon"} onClick={this.handle_expandClicked} key={this.state.expanded}>
                 <i className={this.state.expanded ? "fas fa-chevron-down" : "fas fa-chevron-right"}/>
             </div>
@@ -61,7 +61,7 @@ export default class Project extends React.Component {
     }
 
     render() {
-        return <div className={"ProjectContainer"}>
+        return <div className={"ProjectContainer " + (this.state.expanded ? "expanded" : "collapsed")}>
             {this.renderProject()}
         </div>
     }

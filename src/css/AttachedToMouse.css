@@ -1,0 +1,12 @@
+#AttachedToMouse {
+    position: absolute;
+    white-space: nowrap;
+}
+
+#AttachedToMouse .circleBackground {
+    background: radial-gradient(#454545, #1f1f1f, black, black);
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    overflow: hidden;
+}
