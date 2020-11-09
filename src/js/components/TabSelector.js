@@ -45,8 +45,8 @@ export default class TabSelector extends React.Component {
 
     render() {
         return <div className={"TabSelector"}>
-            {this.renderTabs()}
-            <div key={this.getChildTitle(this.state.selectedChild)}>
+            <div className={"TabHeader"}>{this.renderTabs()}</div>
+            <div key={this.getChildTitle(this.state.selectedChild)} className={"TabContent"}>
                 {this.state.selectedChild}
             </div>
         </div>

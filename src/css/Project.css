@@ -1,6 +1,7 @@
-.projectContainer {
+.ProjectContainer {
     border: 1px solid gray;
     padding: 20px;
+    margin: 20px 0;
 }
 
 .expansionIcon {

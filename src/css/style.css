@@ -1,4 +1,25 @@
 .body_block {
     background: black;
     color: #3b3b3b;
+    font-family: Roboto, serif;
+}
+
+* {
+    scrollbar-width: 10px;
+    scrollbar-color: black gray;
+}
+
+/* Works on Chrome/Edge/Safari */
+*::-webkit-scrollbar {
+    width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+    background: gray;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 20px;
+    border: 2px solid gray;
 }
