@@ -2,5 +2,10 @@
   "name": "Vertica",
   "shortDescription": "Solving some Vertica capacity issues",
   "longDescription": "Solving an issue in our Vertica which was almost at capacity. We had issues with duplicated records, some with differing timestamps. I needed to provide a fast, efficient solution while being constrained by not being able to make a new table for the de-duplication due to our fast approaching size constraints.",
-  "link": "https://drive.google.com/file/d/1jrx5uOu4GQyB4Gr_zfBWbN_ZR9rqsrV0/view?usp=sharing"
+  "links": [
+    {
+      "label": "PDF",
+      "link": "https://drive.google.com/file/d/1jrx5uOu4GQyB4Gr_zfBWbN_ZR9rqsrV0/view?usp=sharing"
+    }
+  ]
 }

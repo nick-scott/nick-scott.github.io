@@ -2,5 +2,10 @@
   "name": "Kale",
   "shortDescription": "Tool for deserializing protobuf kafka records",
   "longDescription": "Quick solution to viewing protobuf serialized kafka records. A Python script reads messages from a topic (with partition and offset optional) and programmatically deserializes the message when given a folder of available proto files. This was made because there was a need to read kafka messages in production for debugging purposes while implementing a schema registry was under way.",
-  "link": "https://drive.google.com/file/d/1qaqTIpF2gZXF5OT6IzAMXCwT55SI8Q5s/view?usp=sharing"
+  "links": [
+    {
+      "label": "Source Code (Zipped)",
+      "link": "https://drive.google.com/file/d/1qaqTIpF2gZXF5OT6IzAMXCwT55SI8Q5s/view?usp=sharing"
+    }
+  ]
 }

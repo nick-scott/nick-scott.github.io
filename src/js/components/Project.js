@@ -2,7 +2,7 @@ import "../../css/Project.css"
 
 import React from "react";
 
-export default class    Project extends React.Component {
+export default class Project extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -20,7 +20,22 @@ export default class    Project extends React.Component {
     }
 
     getDescription = () => {
-        return this.state.expanded ? this.state.data.longDescription : this.state.data.shortDescription
+        if (this.state.expanded) {
+            let links = []
+            for (let link of this.state.data.links) {
+                links.push(<div key={link.label} className={"projectLink clickableLink"}
+                                onClick={() => document.location = link.link}>
+                    {link.label}
+                </div>)
+            }
+            return <div className={"extendedDescription"}>
+                <div className={"description"}>
+                    {this.state.data.longDescription}
+                </div>
+                <div className={"projectLinks"}>{links}</div>
+            </div>
+        }
+        return this.state.data.shortDescription
     }
 
     handle_expandClicked = () => {

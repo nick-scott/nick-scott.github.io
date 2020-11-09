@@ -11,3 +11,12 @@
 .descriptionBlock {
     margin-left: 20px;
 }
+
+.clickableLink{
+    color: #30308c;
+    cursor:pointer;
+}
+
+.clickableLink:hover{
+    color: #5959c6;
+}
