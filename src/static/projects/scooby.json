@@ -1,0 +1,6 @@
+{
+  "name": "Scooby",
+  "shortDescription": "Reusable coding sandbox for testing interviewees",
+  "longDescription": "Our team needed a re-usable workspace for our interviews as generic questions and code didn’t fit what our team needed from a potential interviewee. I wrote this project to be maintainable by anyone on the team and to encompass aspects of what our team did in any role be it DB management, calling and interpreting JSON responses from a REST API, or writing good unit test coverage.",
+  "link": "https://drive.google.com/file/d/1zVpQnFIExnjMHtvQYVht_MGrG9us09r3/view?usp=sharing"
+}

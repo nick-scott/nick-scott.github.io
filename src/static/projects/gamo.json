@@ -1,0 +1,6 @@
+{
+  "name": "Gamo",
+  "shortDescription": "Short text here",
+  "longDescription": "React/Flask app to demonstrate persistent websocket management and a reactive web game framework",
+  "link": "https://github.com/nick-scott/Gamo"
+}

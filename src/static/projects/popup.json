@@ -1,0 +1,6 @@
+{
+  "name": "Popup",
+  "shortDescription": "Short text here",
+  "longDescription": "World of Warcraft addon written in LUA to provide users with a popup when any whitelisted phrase gets written in chat.",
+  "link": "https://github.com/nick-scott/wow-popup"
+}

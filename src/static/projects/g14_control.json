@@ -1,0 +1,6 @@
+{
+  "name": "ASUS G14 Matrix Control",
+  "shortDescription": "Dynamic Weather Display for the ASUS G14 AniMe Matrix",
+  "longDescription": "System tray app to control Asus G14 laptop, more specifically this was to add a new AniMe matrix function to show dynamic weather and time of day. This pulls data from openweathermap to provide dynamic cloud generation, rain, snow, wind, and a sun/moon cycle depending on sunrise/sunset. This was recently featured on an ASUS podcast (my username when releasing this was Idzuna)",
+  "link": "https://github.com/nick-scott/g14control-r2"
+}
