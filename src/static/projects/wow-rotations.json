@@ -1,7 +1,7 @@
 {
   "name": "wow-rotations.github.io",
-  "shortDescription": "Short text here",
-  "longDescription": "Taking advantage of githubs page hosting, this features a single React page with a compilation of profiles for an addon in World of Warcraft to help players choose the optimal spell to use.",
+  "shortDescription": "Website hosting a series of addon profiles for World of Warcraft to assist players",
+  "longDescription": "Taking advantage of githubs page hosting, this features a single React page with a compilation of profiles for an addon in World of Warcraft. These profiles use a series of conditions based on resources and spell availability to provide the most optimal spell to use in any given scenario. It can even tell how many enemies are around either the player (for melee classes) or the target (for ranged classes) to determine if the player should use area of effect spells",
   "links": [
     {
       "label": "Website",

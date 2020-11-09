@@ -1,7 +1,7 @@
 {
   "name": "Gamo",
-  "shortDescription": "Short text here",
-  "longDescription": "React/Flask app to demonstrate persistent websocket management and a reactive web game framework",
+  "shortDescription": "React/Flask app to demonstrate persistent websocket management and a reactive web game framework",
+  "longDescription": "Working remotely during COVID in 2020 I encouraged the team to play games to socialise a bit, we played a lot of Jackbox party games through screensharing and after a while I figued there was no reason anyone should have to have the application installed on a host machine. So I built this app to show that you can have a persistent, web-based game using websockets and react to provide the same experience. This one currently support playing a game of 'Pairs'",
   "links": [
     {
       "label": "Source",
