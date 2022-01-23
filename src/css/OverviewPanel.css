@@ -1,0 +1,23 @@
+.OverviewContainer {
+    border: 1px solid gray;
+    padding: 0 20px 20px 20px;
+    margin: 20px 0;
+    color: white;
+    cursor: default;
+    border-radius: 5px;
+    filter: brightness(50%);
+    background-color: black;
+}
+
+.SummaryContainer {
+    margin-top: 20px;
+}
+
+.SummaryTable {
+    margin-top: 20px;
+}
+
+.SummaryTable .tableCategory {
+    padding: 20px;
+    font-weight: bolder;
+}

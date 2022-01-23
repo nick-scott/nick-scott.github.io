@@ -1,0 +1,13 @@
+{
+  "name": "CerebralFix Ltd",
+  "location": "Christchurch, New Zealand",
+  "duration": "2017 (4 Months)",
+  "title": "Unity Developer",
+  "shortDescription": "Wrote a pipeline to integrate perforce into unity allowing artists and designers to collaborate more effectively",
+  "longDescription": "Contract for Disney Kelowna working on Club Penguin. Writing a pipeline to integrate perforce into unity allowing artists and designers to collaborate more effectively. Worked with multiple teams on their PC port, which involved bug-fixing and mentoring good SCRUM practices to communicate with the business reasonable expectations and distribution of workload.",
+  "technologies": [
+    "C#",
+    "Unity",
+    "Perforce"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Linewize Ltd/FamilyZone Education",
+  "location": "Christchurch, New Zealand",
+  "duration": "2018-2020",
+  "title": "Senior Full-Stack Developer/SCRUM Master",
+  "shortDescription": "Worked on high-traffic microservices for a school firewall product",
+  "longDescription": "Full-Stack Developer working on education software for global clients, allowing schools to have control over their network traffic and complying with local laws regarding handling of minors’ data. Processing a connection stream of terabytes per day to provide meaningful data aggregation and statistics. Event based chrome extension to filter network traffic and give schools a safety net when students when outside their network. On-call for fixing issues in production whether a problem happens from a bad deployment or server failure. Structuring our micro-architecture to allow better scaling and redundancies.",
+  "technologies": [
+    "Javascript/Python/C++",
+    "ReactJS/Tornado",
+    "Docker",
+    "AWS",
+    "Git",
+    "MongoDB/PostgreSql",
+    "Memcache/Redis",
+    "TeamCity"
+  ]
+}

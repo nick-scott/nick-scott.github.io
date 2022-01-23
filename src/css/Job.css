@@ -1,0 +1,75 @@
+.JobContainer {
+    border: 1px solid gray;
+    padding: 0 20px 20px 20px;
+    margin: 20px 0;
+    color: white;
+    cursor: default;
+    border-radius: 5px;
+    filter: brightness(50%);
+    background-color: black;
+}
+
+.JobContainer .header {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.JobContainer.expanded {
+    filter: brightness(100%);
+}
+
+.JobContainer .header h2 {
+    float: left;
+    margin-bottom: 0;
+}
+
+.JobContainer .header h4 {
+    float: left;
+    padding: 5px;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+
+.JobContainer:hover {
+    filter: brightness(100%);
+}
+
+.expansionIcon {
+    cursor: pointer;
+    float: left;
+    padding: 10px;
+    margin-top: -10px;
+    margin-left: -15px;
+}
+
+.descriptionBlock {
+    margin-left: 0;
+}
+
+.descriptionBlock .description {
+    margin-left: 20px;
+}
+
+.clickableLink {
+    color: #5959c6;
+    cursor: pointer;
+    background: #353535;
+    border-radius: 5px;
+    width: fit-content;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.clickableLink:hover {
+    color: #6363f9;
+    background: #3b3b3b;
+}
+
+.JobLinks {
+    margin-top: 20px;
+}
+
+.technologyTable {
+    margin-top: -15px;
+    width: 50vw;
+}

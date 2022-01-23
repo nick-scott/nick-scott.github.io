@@ -1,0 +1,11 @@
+{
+  "name": "Forex",
+  "shortDescription": "Forex POC using twelvedata.com as the source",
+  "longDescription": "Forex round trip POC which pulls data from twelvedata.com using either batch polling or websockets, it then converts the data into a canonical format and stores it into postgres where it is available via an API built with FastAPI",
+  "links": [
+    {
+      "label": "Source Code (Zipped)",
+      "link": "https://drive.google.com/file/d/1XqCbaFtR8oR2k3RCAZA5sv05gWcNB7Fa/view?usp=sharing"
+    }
+  ]
+}

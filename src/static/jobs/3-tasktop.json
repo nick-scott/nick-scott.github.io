@@ -1,0 +1,18 @@
+{
+  "name": "Tasktop Technologies",
+  "location": "Vancouver, Canada",
+  "duration": "2020 (4 Months)",
+  "title": "Senior Scala Developer",
+  "shortDescription": "Created developer tools for Kafka, improved their React frontend for performance",
+  "longDescription": "Contract for Tasktop to help develop their metrics pipeline backed by Kafka. Created Kale, a developer tool to deserialize protobuf messages in Kafka (see portfolio samples for description and code). Championed plan to implement schema registry into an existing Kafka implementation, to improve visibility and allow use of third party tools to deserialize Kafka messages. Improved front-end performance and gave presentations on replacing polling with SSE to reduce load on the web server.",
+  "technologies": [
+    "Scala/Python",
+    "ReactJS",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "Kafka",
+    "AWS",
+    "Jenkins"
+  ]
+}

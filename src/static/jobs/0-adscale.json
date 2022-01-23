@@ -1,0 +1,22 @@
+{
+  "name": "adscale Labs Ltd.",
+  "location": "Christchurch, New Zealand",
+  "duration": "2011-2017",
+  "title": "Software Developer/SCRUM Master/Agile Facilitator",
+  "shortDescription": "Working in a team that was responsible for researching new technologies and implementing them into our pre-existing, large-scale application",
+  "longDescription": "Elected SCRUM master for a team of 6 developers and 2 testers. Company facilitator when required. Software Developer working in a team that is responsible for researching new technologies and implementing them into our pre-existing, large-scale application. Processing terabytes of log files into aggregated data using technologies such as Spark and Vertica. Fast, high-volume messaging between applications using Kafka. Flexible enough to work on any part of the code base whether it be client facing, our team's original purpose (statistics and efficient SQL aggregation), business intelligence applications, or high throughput ad-serving technology written in a variety of languages including JavaScript, Java, Scala, Python, and Perl.",
+  "technologies": [
+    "Java/Javascript/Python",
+    "Spring/Spring Remoting",
+    "ActiveMQ",
+    "Kafka",
+    "GPB/Avro",
+    "Maven/Salt",
+    "Vertica/PostgreSql",
+    "Spark/Big Data",
+    "Couchbase/Memcache",
+    "Git",
+    "JUnit/Fitnesse/Selenium",
+    "Jenkins/TeamCity"
+  ]
+}

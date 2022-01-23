@@ -1,0 +1,11 @@
+{
+  "name": "TRX Microservices",
+  "shortDescription": "Microservice architecture showcase for future transaction 'data mesh'",
+  "longDescription": "Built as a showcase of microservice architecture when building a 'data mesh', that is, a system with multiple data sources into a single or multiple APIs. This utilises an api dispatcher to handle access to internal APIs. The dispatcher makes it eay to attach new data source APIs which are in a higher layer of protection.",
+  "links": [
+    {
+      "label": "Source Code (Zipped)",
+      "link": "https://drive.google.com/file/d/1jADO1RVbwAHGqGoEVY3baygmWCRhNbmH/view?usp=sharing"
+    }
+  ]
+}

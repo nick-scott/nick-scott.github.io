@@ -1,0 +1,18 @@
+{
+  "name": "Westpac New Zealand",
+  "location": "Wellington, New Zealand",
+  "duration": "2021-2022",
+  "title": "Senior Full-Stack Developer",
+  "shortDescription": "Implemented several best-practice POCs to bring Westpac into the microservice era",
+  "longDescription": "Contract for Westpac NZ to help the Open Banking team implement Kafka to replace batch jobs for transaction data. Gave several talks about the origin of docker and microservice architecture, designed and built an Open Baking API using the Payments NZ specifications. Provided POCs for their Forex and Transaction stack using microservices. Solved issues with their implementation of Airflow to reduce wait times for reports that relied on batch jobs.",
+  "technologies": [
+    "Java/Scala/Python",
+    "ReactJS/FastAPI",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "Kafka",
+    "AWS",
+    "Airflow"
+  ]
+}
