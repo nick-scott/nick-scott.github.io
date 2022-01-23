@@ -10,8 +10,8 @@ export default class OverviewPanel extends React.Component {
                 <div className={"SummaryContainer"}>
                     I am an experienced developer with a demonstrated history of solving problems across all levels of
                     the technology stack. <br/><br/>
-                    Skilled in Scala, Java, Javascript, Web Technologies such as ReactJS and FastAPI, a
-                    broad range of AWS technologies including serialization technologies like GBP and Avro. <br/><br/>
+                    Skilled in Python, Scala, Java, Javascript, Web Technologies such as ReactJS and FastAPI, a broad
+                    range of AWS knowledge, and serialization technologies like GBP and Avro. <br/><br/>
                     I communicate effectively to all levels of the company and mentor fellow developers to share
                     knowledge and techniques. Among other things, in my free time I enjoy archery, rock climbing,
                     running, and gaming.
