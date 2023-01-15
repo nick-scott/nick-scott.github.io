@@ -1,0 +1,17 @@
+{
+  "name": "Paloma",
+  "location": "Auckland, New Zealand",
+  "duration": "2022-Present",
+  "title": "Tech Lead",
+  "shortDescription": "Worked with a leading Crypto Lender to write a bespoke solution for their institutional lending platform",
+  "longDescription": "Leading crypto currency lender (NDA), building them a bespoke product to replace legacy systems from the ground up. Integrated with multiple currency exchanges and increased efficiency of their processes exponentially while providing the rugged security expected of a top financial institution.\n\nAs a Tech Lead my primary role was to improve the developer experience. I achieved this by removing team impediments, mentoring developers and championing architectural changes which would provide long-term value.",
+  "technologies": [
+    "Python",
+    "ReactJS/FastAPI",
+    "GraphQL",
+    "Docker",
+    "CDK",
+    "Git",
+    "AWS"
+  ]
+}
