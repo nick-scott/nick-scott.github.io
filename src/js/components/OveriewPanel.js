@@ -38,6 +38,7 @@ export default class OverviewPanel extends React.Component {
                     </tr>
                 </table>
             </div>
+            <Job json={'5-paloma.json'}/>
             <Job json={'4-westpac.json'}/>
             <Job json={'3-tasktop.json'}/>
             <Job json={'2-linewize.json'}/>
